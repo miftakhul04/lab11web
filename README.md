@@ -65,6 +65,82 @@
 ![Screenshot (401)](https://user-images.githubusercontent.com/81568032/121798013-0480d700-cc4e-11eb-9628-4dccad907c78.png)
 
 
+# PRAKTIKUM 12 LANJUTAN DARI PRAKTIKUM 11
+
+# 1. Membuat table baru dan mengkonfigurasikan data base
+<img width="490" alt="1" src="https://user-images.githubusercontent.com/81568032/122779350-f9761880-d2d7-11eb-8ce5-be7ee88bdbdd.png">
+
+![Screenshot (432)](https://user-images.githubusercontent.com/81568032/122779432-0f83d900-d2d8-11eb-869d-4768156a958f.png)
+
+# 2. Membuat file artikelmodel.php, Controler artikel.php dan index.php 
+![Screenshot (433)](https://user-images.githubusercontent.com/81568032/122779637-41953b00-d2d8-11eb-84da-3f32c98c9478.png)
+
+![Screenshot (434)](https://user-images.githubusercontent.com/81568032/122779786-6ab5cb80-d2d8-11eb-9c42-6345856f0388.png)
+
+![Screenshot (435)](https://user-images.githubusercontent.com/81568032/122779814-743f3380-d2d8-11eb-9629-28811f6229f9.png)
+
+![2](https://user-images.githubusercontent.com/81568032/122780043-a8b2ef80-d2d8-11eb-9c07-4efb7c147b63.png)
+
+# 3. Menambahkan data pada data base
+
+<img width="943" alt="table" src="https://user-images.githubusercontent.com/81568032/122780174-cf712600-d2d8-11eb-98c4-305b789fa008.png">
+
+![Screenshot (437)](https://user-images.githubusercontent.com/81568032/122780602-31319000-d2d9-11eb-9c75-70a4e49bf18e.png)
+
+
+# 4. Menambahkan Controller detail artikel, view detail dan membuat routing untuk detail
+
+![Screenshot (438)](https://user-images.githubusercontent.com/81568032/122780646-3d1d5200-d2d9-11eb-9739-3c8b4dfcc2a5.png)
+
+![Screenshot (439)](https://user-images.githubusercontent.com/81568032/122780688-46a6ba00-d2d9-11eb-837e-8b9c2b60fb1b.png)
+
+![Screenshot (440)](https://user-images.githubusercontent.com/81568032/122780722-4dcdc800-d2d9-11eb-9327-c44f4752c634.png)
+
+![Screenshot (441)](https://user-images.githubusercontent.com/81568032/122780780-5b834d80-d2d9-11eb-9203-c6c2cd956251.png)
+
+# 5. membuat menu admin lalu menambahkan controller admin di file artikel.php, membuat view admin_index dan routing untuk file admin
+
+![Screenshot (442)](https://user-images.githubusercontent.com/81568032/122781103-b026c880-d2d9-11eb-93cd-862b49eee322.png)
+
+![Screenshot (443)](https://user-images.githubusercontent.com/81568032/122781167-bfa61180-d2d9-11eb-9d86-205c8dece500.png)
+
+![Screenshot (444)](https://user-images.githubusercontent.com/81568032/122781192-c59bf280-d2d9-11eb-9011-43ed336e6653.png)
+
+![Screenshot (445)](https://user-images.githubusercontent.com/81568032/122781224-ccc30080-d2d9-11eb-9548-e367f78c908a.png)
+
+# 6. Menambahkan data artikel dengan nama fie 'Add' lalu menambahkan functio controller dan view form_addd
+
+![Screenshot (446)](https://user-images.githubusercontent.com/81568032/122781682-43f89480-d2da-11eb-9aab-a92c30ad7a1e.png)
+
+![Screenshot (448)](https://user-images.githubusercontent.com/81568032/122781739-507ced00-d2da-11eb-9f31-ad4ac904896a.png)
+
+![Screenshot (447)](https://user-images.githubusfieercontent.com/81568032/122781815-612d6300-d2da-11eb-85fc-560fc1aa15a6.png)
+
+# 7. Menambahkan file 'edit' lalu menambahkan function controller 'edit' dan membuat view form_edit
+
+![Screenshot (450)](https://user-images.githubusercontent.com/81568032/122782174-b2d5ed80-d2da-11eb-8259-cdcdc25b18ed.png)
+
+![Screenshot (451)](https://user-images.githubusercontent.com/81568032/122782200-b9646500-d2da-11eb-98f0-7af612170452.png)
+
+![Screenshot (452)](https://user-images.githubusercontent.com/81568032/122782240-c08b7300-d2da-11eb-978d-0c4187e1b821.png)
+
+# 8. Menambahkan file untuk 'delete' lalu membuat function delete
+
+![Screenshot (453)](https://user-images.githubusercontent.com/81568032/122782444-efa1e480-d2da-11eb-8b13-d3ebf1fc77f7.png)
+
+![Screenshot (454)](https://user-images.githubusercontent.com/81568032/122783163-840c4700-d2db-11eb-884a-b21f76f247c8.png)
+
+# LALU SAYA DI SINI MENAMBAHKAN DI HEADER "TAMBAH ARTIKEL" AGAR BISA BERFUNGSI UNTUK MENAMBAHKAN ARTIKEL BARU
+
+# => MERUBAH BASE URL DI FILE HEADER.PHP DI NAV 'TAMBAH ARTIKEL' AGAR BISA MENAMBAHKAN ARTIKEL BARU
+
+![Screenshot (455)](https://user-images.githubusercontent.com/81568032/122784397-a3f03a80-d2dc-11eb-94f5-990c1f5f2d7a.png)
+
+![Screenshot (456)](https://user-images.githubusercontent.com/81568032/122784738-f03b7a80-d2dc-11eb-81ea-f5eaf483aff6.png)
+
+![Screenshot (457)](https://user-images.githubusercontent.com/81568032/122784867-0ba68580-d2dd-11eb-9a83-034b6d10ce95.png)
+
+
 
 
 
