@@ -140,6 +140,47 @@
 
 ![Screenshot (457)](https://user-images.githubusercontent.com/81568032/122784867-0ba68580-d2dd-11eb-9a83-034b6d10ce95.png)
 
+# Lanjut praktikum 13
+
+# 1. membuat tabel user
+![Screenshot (459)](https://user-images.githubusercontent.com/81568032/123676273-ea5e1000-d86d-11eb-9249-4cb4efed9646.png)
+
+# 2. Membuat Model untuk memproses data Login. Buat file baru pada direktori app/Models dengan nama UserModel.php
+![Screenshot (461)](https://user-images.githubusercontent.com/81568032/123676346-0792de80-d86e-11eb-9f1c-ed98fd01bad1.png)
+
+# 3.Membuat Controller baru dengan nama User.php pada direktori app/Controllers.
+Kemudian tambahkan method index() untuk menampilkan daftar user, dan method login() untuk proses login.
+
+![Screenshot (462)](https://user-images.githubusercontent.com/81568032/123676431-209b8f80-d86e-11eb-82c3-4ade564c2a18.png)
+
+![Screenshot (463)](https://user-images.githubusercontent.com/81568032/123676460-28f3ca80-d86e-11eb-973c-1101e2a56967.png)
+
+# 4. Membuat View Log In
+![Screenshot (464)](https://user-images.githubusercontent.com/81568032/123676533-43c63f00-d86e-11eb-9d8d-0b5bd584da2e.png)
+
+# 5. Membuat Database Seeder
+![Screenshot (460)](https://user-images.githubusercontent.com/81568032/123676638-648e9480-d86e-11eb-95f5-9571423518eb.png)
+
+# Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
+
+![Screenshot (471)](https://user-images.githubusercontent.com/81568032/123677243-13cb6b80-d86f-11eb-8a0c-f88274b349a2.png)
+
+
+# 6. tampilan form login
+
+![Screenshot (468)](https://user-images.githubusercontent.com/81568032/123677552-73c21200-d86f-11eb-99bc-092ce8708c8e.png)
+
+# 7.Menambahkan Auth Filter
+# Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
+![Screenshot (469)](https://user-images.githubusercontent.com/81568032/123677656-96542b00-d86f-11eb-9f83-6f56ef9ce9f7.png)
+
+# 8. Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+![Screenshot (470)](https://user-images.githubusercontent.com/81568032/123677730-acfa8200-d86f-11eb-8487-9716e2c4f7ec.png)
+
+
+
+
+
 
 
 
