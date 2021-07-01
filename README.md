@@ -177,6 +177,20 @@ Kemudian tambahkan method index() untuk menampilkan daftar user, dan method logi
 # 8. Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
 ![Screenshot (470)](https://user-images.githubusercontent.com/81568032/123677730-acfa8200-d86f-11eb-8487-9716e2c4f7ec.png)
 
+# 9. Selanjutnya  nambahkan sesuai file
+![Screenshot (472)](https://user-images.githubusercontent.com/81568032/124122902-ce8e8000-daa0-11eb-931b-b222dbcd7648.png)
+
+# 10.  menambahkan function logut di controller user
+![Screenshot (473)](https://user-images.githubusercontent.com/81568032/124123008-f382f300-daa0-11eb-83d9-49bba8082d39.png)
+
+# 11. selanjutanya login dan hasilnya lalu logout
+![Screenshot (474)](https://user-images.githubusercontent.com/81568032/124123189-32b14400-daa1-11eb-95af-884ce519507a.png)
+
+![Screenshot (475)](https://user-images.githubusercontent.com/81568032/124123202-3775f800-daa1-11eb-9680-16795afb7eda.png)
+
+![Screenshot (476)](https://user-images.githubusercontent.com/81568032/124123214-3c3aac00-daa1-11eb-9f9f-485404e56caa.png)
+
+
 
 
 
