@@ -190,6 +190,38 @@ Kemudian tambahkan method index() untuk menampilkan daftar user, dan method logi
 
 ![Screenshot (476)](https://user-images.githubusercontent.com/81568032/124123214-3c3aac00-daa1-11eb-9f9f-485404e56caa.png)
 
+# LANJUT PRAKTIKUM 14
+
+# 1. menambahkan controller di artikel.php pada method admin_index
+![Screenshot (477)](https://user-images.githubusercontent.com/81568032/124428630-270e9780-dd97-11eb-9b67-127e55896d70.png)
+
+# 2. menambahkan form pada file admin_index.php di folder views/artikel dan outputnya
+![Screenshot (480)](https://user-images.githubusercontent.com/81568032/124428866-63da8e80-dd97-11eb-8d7e-ce2a565a0cb0.png)
+
+![Screenshot (479)](https://user-images.githubusercontent.com/81568032/124428888-689f4280-dd97-11eb-834d-b7f95bf71c74.png)
+
+![Screenshot (481)](https://user-images.githubusercontent.com/81568032/124429900-a9e42200-dd98-11eb-9ee3-90d920a73a14.png)
+
+# 3. merubah file pada controller artikel dan pada method add
+![Screenshot (482)](https://user-images.githubusercontent.com/81568032/124430141-fe879d00-dd98-11eb-9b65-1cbfd01516f1.png)
+
+# 4. menambahkan  field input di file form_add.php dan hasilnya
+![Screenshot (483)](https://user-images.githubusercontent.com/81568032/124430285-2d057800-dd99-11eb-81fe-159395f930c5.png)
+
+![Screenshot (485)](https://user-images.githubusercontent.com/81568032/124430344-40b0de80-dd99-11eb-928f-23beabdf1f1e.png)
+
+# 5. Disini saya akan coba menambahkan artikel baru dan juga gambar
+
+![Screenshot (486)](https://user-images.githubusercontent.com/81568032/124430860-e49a8a00-dd99-11eb-8697-30652bf7b746.png)
+
+![Screenshot (487)](https://user-images.githubusercontent.com/81568032/124430964-0267ef00-dd9a-11eb-88be-4ebd4a7c0ed7.png)
+
+
+
+
+
+
+
 
 
 
